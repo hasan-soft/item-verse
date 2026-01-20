@@ -11,7 +11,7 @@ const CallToAction = () => {
         {/* Content */}
         <div className="relative">
           {/* Main CTA Card - Full Width */}
-          <div className=" py-20">
+          <div className="">
             <div className="container mx-auto px-4">
               <div className="max-w-6xl mx-auto">
                 <div className="relative  ">

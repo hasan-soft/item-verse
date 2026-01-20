@@ -47,8 +47,8 @@ const WhoItsFor = () => {
   ];
 
   return (
-    <section className="pb-10 pt-6 bg-white">
-      <div className="container mx-auto px-4">
+    <section className="pb-10 pt-10 bg-white">
+      <div className="container pt-10 mx-auto px-4">
         {/* Section Header */}
         <div className="text-center mb-10">
           <h2 className="text-4xl font-bold text-gray-900 mb-2">

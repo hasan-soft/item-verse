@@ -29,7 +29,7 @@ const FeaturedResources = async () => {
     const isFree = mainResource.price.toLowerCase() === "free";
 
     return (
-        <section className="py-12 bg-gray-50">
+        <section className="py-12 bg-gray-200">
             <div className="container mx-auto px-4">
                 {/* Section Header */}
                 <div className="mb-8 text-center">

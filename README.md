@@ -4,7 +4,7 @@ Project Description
 ------
 ItemVerse is a modern, responsive web application built with Next.js 15 (App Router) that serves as a curated digital library of study resources for students and developers. The platform showcases various learning materials such as interview question packs, cheat sheets, roadmaps, notes, and mini guides in a clean, professional interface.
 
-Live Demo: 
+Live Demo: https://item-verse-bice.vercel.app/
 
 Setup & Installation Instructions:
 -----------------
@@ -21,7 +21,7 @@ Installation Steps:
 ------
 
 bash
-git clone [your-repository-url]
+git clone 
 cd ItemVerse
 
 

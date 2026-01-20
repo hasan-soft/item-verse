@@ -84,7 +84,7 @@ const Categories = () => {
   const categoryChunks = chunkArray(categories, 3);
 
   return (
-    <section id="categories" className="py-20 bg-white">
+    <section id="categories" className="py-20 bg-gray-100">
       <div className="container mx-auto px-4">
         {/* Section Header */}
         <div className="text-center mb-16">
